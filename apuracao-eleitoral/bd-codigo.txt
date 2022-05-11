@@ -1,0 +1,1 @@
+CREATE TABLE candidatos ( cpf int(9) PRIMARY KEY NOT NULL, nome varchar(255) NOT NULL, partido varchar(15) NOT NULL, nascimento date NOT NULL, titulo int(12) NOT NULL );
